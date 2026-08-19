@@ -32,7 +32,7 @@ Here are some papers that I have enjoyed.  I still have many more to add.  Gradu
 * N. Metropolis and S. Ulam. 1949. The Monte Carlo Method.
 * M. Matsumoto and T. Nishimura. 1998. Mersenne twister: a 623-dimensionally equidistributed uniform pseudo-random number generator.
 * Larraga. 2004. Cellular Automata For One-Lane Traffic Flow Modeling.
-* 
+
 # Statistics
 * M. Krawczyk. 2015. The Search for Significance: A Few Peculiarities in the Distribution of P Values in Experimental Psychology Literature.
 * M. Baker. 2016. 1,500 scientists lift the lid on reproducibility.
@@ -44,3 +44,6 @@ Here are some papers that I have enjoyed.  I still have many more to add.  Gradu
 # Decision Science
 * W. B. Powell and I. O. Ryzhov. 2012. Optimal Learning.
 * M. O. Jackson and Y. Zenou. 2015. Games on Networks.
+
+# History of Mathematics
+* Osler. A Modern Look at a Neglected Summation Formula by Euler. 2009.

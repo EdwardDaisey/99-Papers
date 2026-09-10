@@ -41,6 +41,9 @@ Here are some papers that I have enjoyed.  I still have many more to add.  Gradu
 * V. Chavez-Demoulin, P. Embrechts, and M. Hofert. 2016. An Extreme Value Approach for Modeling Operational Risk Losses Depending on Covariates.
 * S. Negahban, S. Oh, and D. Shah. 2017. Rank Centrality: Ranking from Pairwise Comparisons.
 
+# Optimization 
+# I. Boussaïd. 2013. A Survey on Optimization Metaheuristic.
+
 # Decision Science
 * W. B. Powell and I. O. Ryzhov. 2012. Optimal Learning.
 * M. O. Jackson and Y. Zenou. 2015. Games on Networks.

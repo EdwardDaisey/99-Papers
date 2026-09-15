@@ -43,7 +43,7 @@ Here are some papers that I have enjoyed.  I still have many more to add.  Gradu
 * Parmesan et al. 1999. Poleward shifts in geographical ranges of butterfly species associated with regional warming.
 
 # Optimization 
-# Boussaïd. 2013. A Survey on Optimization Metaheuristic.
+* Boussaïd. 2013. A Survey on Optimization Metaheuristic.
 
 # Decision Science
 * Powell and Ryzhov. 2012. Optimal Learning.
